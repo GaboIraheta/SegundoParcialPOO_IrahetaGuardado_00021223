@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class DepartamentoSecundario extends DepartamentoC {
 
     public DepartamentoSecundario(boolean ceo, int empleados, String nombre) { // el ceo para departamentos secundarios

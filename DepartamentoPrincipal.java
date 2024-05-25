@@ -43,7 +43,7 @@ public class DepartamentoPrincipal extends DepartamentoC{
 
         } else {
 
-            System.out.println("El CEO");
+            System.out.println("El CEO no ha ordenado acciones");
         }
     }
 }
